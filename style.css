@@ -1,0 +1,39 @@
+/*Estilos para encabezaro*/
+header{
+    background-color: bisque;
+    padding: 20px;
+    text-align: center justify;
+    color: rgb(0, 0, 16);
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+nav a:hover{
+    color: #eeebd4;
+}
+.container{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: aqua;
+    border-radius: 38px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container h2{
+    color: #ee0707;
+}
+.container p{
+    font-size: 16px;
+    color: blue;
+    line-height: 1.6;
+}
+footer{
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
